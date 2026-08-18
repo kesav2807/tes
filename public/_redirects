@@ -1,0 +1,3 @@
+/offer360-api/*  https://offer360.in/:splat  200!
+/fireworks/*      https://offer360.in/fireworks/:splat  200!
+/*                /index.html                           200

@@ -1,0 +1,48 @@
+:root {
+  /* Brand Palette - Festive Theme (API Defaults) */
+  --primary-gold: #FFC107;
+  --primary-gold-hover: #ffca28;
+  --primary-gold-light: rgba(255, 193, 7, 0.2);
+  
+  --crimson-red: #FF5722;
+  --crimson-red-hover: #f4511e;
+  --crimson-dark: #d84315;
+
+  --night-navy: #0f172a;
+  --night-navy-card: #1e293b;
+  --night-border: rgba(255, 255, 255, 0.12);
+
+  --light-bg: #fffcf8;
+  --light-card: #ffffff;
+  --light-border: #f1e5d1;
+
+  --text-dark: #212121;
+  --text-muted: #64748b;
+  --text-light: #f8fafc;
+
+  --accent-green: #10b981;
+  --accent-blue: #0284c7;
+  --accent-purple: #8b5cf6;
+
+  /* Typography */
+  --font-heading: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
+
+  /* Elevation & Shadows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 6px 16px rgba(217, 4, 41, 0.08);
+  --shadow-lg: 0 12px 32px rgba(217, 4, 41, 0.15);
+  --shadow-gold-glow: 0 0 25px rgba(217, 4, 41, 0.4);
+  --shadow-crimson-glow: 0 0 25px rgba(217, 4, 41, 0.3);
+
+  /* Border Radius */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --transition-fast: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
